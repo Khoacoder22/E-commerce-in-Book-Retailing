@@ -1,0 +1,50 @@
+
+.form-box{
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.input-box{
+    margin-top: 10px;
+}
+
+.input-field{
+    font-size: 15px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #f6f6f6;
+    height: 50px;
+    width: 125%;
+    text-align: center;
+    border: none;
+    border-radius: 30px;
+}
+
+/* Add container for the button */
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+}
+
+button {
+    width: 200px;
+    text-align: center;
+    padding: 15px 0;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #009688;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    margin-left: 10%;
+}
+
+.input-box1{
+   margin-top: 10px;
+
+}
+

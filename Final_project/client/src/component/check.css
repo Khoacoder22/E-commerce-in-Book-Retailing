@@ -1,0 +1,19 @@
+.checkout-products {
+    margin-bottom: 20px;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .product-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .product-image {
+    border-radius: 4px;
+  }
+  
